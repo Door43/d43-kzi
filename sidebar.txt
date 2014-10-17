@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzi:home|Door43 (kzi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzi|d43-kzi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzi/archive/master.zip|d43-kzi.zip]]
+
+**Recent Changes**
+{{changes>ns = kzi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzi|Ethnologue data]]
+
